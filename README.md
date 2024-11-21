@@ -13,6 +13,9 @@ On ikinci ders kapsamında referansların ne işe yaradığını öğrendim. Ent
 ## ⚓ Ders 13: OOP Modülü: Migration İşlemleri ve Abstract Interfaceler
 On üçüncü ders kapsamında migration işlemi nasıl yapıldığını,interface'in nasıl oluşturulduğunu, ne işe yaradığını, tasarım desenlerini ve nasıl kullanıldığını öğrendim. Migration işlemi ile database oluşturduk ve güncelleme işlemleri yaptık. Interfaceler ve metotlar oluşturduk.
 
+## 🧭 Ders 14: Orm Yapısı: Entity Framework DbFirst ve Model Oluşturma
+On dördüncü ders kapsamında ORM(Object Relational Mapping) araçlarından biri olan entity framework'ün ne olduğu, database first yaklaşımının nasıl kullanıldığı yani veritabanını projeye model olarak bağlamayı öğrendim. Entity framework daha iyi anlamak için yeni proje oluşturduk, EgitimKampiEfTravelDb adında yeni database oluşturduk ve dbfirst yaklaşımı kullanarak oluşturduğumuz veritabanını model olarak VS ortamına entegre ettik. Bu sayede Db içindeki tablolar -> class ve sütunlar -> property olarak otomatik bir şekilde dönüştürüldü.   
+
 ##
 🔖 C# eğitim kampı devam etmekte olup bu repo üzerinden gelişmeleri takip edebilir ve aşağıdaki linkten eğitim videolarını izleyebilirsiniz. İyi çalışmalar 🎉
 
