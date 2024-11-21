@@ -8,7 +8,7 @@ namespace CSharpEgitimKampi301.EntityLayer.Concrete
 {
     public class Order
     {
-        public int OderId { get; set; }
+        public int OrderId { get; set; }
         public int ProductID { get; set; }
         public virtual Product Product { get; set; }
         public int Quantity { get; set; }
@@ -16,6 +16,7 @@ namespace CSharpEgitimKampi301.EntityLayer.Concrete
         public decimal TotalPrice { get; set; }
         public int CustomerId { get; set; }
         public virtual Customer Customer { get; set; }  
+
 
 
 
