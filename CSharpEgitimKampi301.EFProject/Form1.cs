@@ -23,7 +23,6 @@ namespace CSharpEgitimKampi301.EFProject
         {
             var values = db.Guide.ToList();
             dataGridView1.DataSource = values;
-
         }
 
         private void btnAdd_Click(object sender, EventArgs e)
