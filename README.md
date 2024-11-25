@@ -22,6 +22,11 @@ On beşinci ders kapsamında front-end kısmında düzenlemelerin nasıl yapıld
 ## 🗼 Ders 16: Entity Framework: Tur Projesi Location İşlemleri
 On altıncı ders kapsamında önceki ders öğrendiğimiz konuları tekrar etmek için yeni bir form açtık ve Tur yerlerini listeleyip CRUD işlemlerinin yapılabildiği bir uygulama geliştirdik.
 
+## 🔑 Ders 17: Entity Framework Metotları ve Linq Sorgular
+On yedinci ders kapsamında entity framework metotları ile database'de bulunan verilerin Linq sorguları nasıl yapılır öğrendim. Sorgular ile istatistik verilerini görebileceğimiz bir form oluşturduk.
+
+![Screenshot_3](https://github.com/user-attachments/assets/2eb41eb2-e69a-4132-ba9d-5a4ce2dbb2c9)
+
 ##
 🔖 C# eğitim kampı devam etmekte olup bu repo üzerinden gelişmeleri takip edebilir ve aşağıdaki linkten eğitim videolarını izleyebilirsiniz. İyi çalışmalar 🎉
 
