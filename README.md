@@ -27,6 +27,9 @@ On yedinci ders kapsamında entity framework metotları ile database'de bulunan 
 
 ![Screenshot_3](https://github.com/user-attachments/assets/2eb41eb2-e69a-4132-ba9d-5a4ce2dbb2c9)
 
+## 🧭 Ders 18: EntityState Komutları, Generic Repository Sınıfı ve Ef Sınıfları
+On sekizinci ders kapsamında miras alma ve implemente etme nasıl yapılır öğrendim. GenericRepository sınıfına IGenericDal interface'ini miras olarak ekledik, metotları implemente ettik ve EntityState komutları kullanarak metotları yazdık. GenericRepository yapısını kurmuş olduk. Entity Framework sınıflarını oluşturduk.
+
 ##
 🔖 C# eğitim kampı devam etmekte olup bu repo üzerinden gelişmeleri takip edebilir ve aşağıdaki linkten eğitim videolarını izleyebilirsiniz. İyi çalışmalar 🎉
 
