@@ -30,6 +30,9 @@ On yedinci ders kapsamında entity framework metotları ile database'de bulunan 
 ## 🧭 Ders 18: EntityState Komutları, Generic Repository Sınıfı ve Ef Sınıfları
 On sekizinci ders kapsamında miras alma ve implemente etme nasıl yapılır öğrendim. GenericRepository sınıfına IGenericDal interface'ini miras olarak ekledik, metotları implemente ettik ve EntityState komutları kullanarak metotları yazdık. GenericRepository yapısını kurmuş olduk. Entity Framework sınıflarını oluşturduk.
 
+## 💎 Ders 19: Business Katmanı ve Logic Kurallar
+On dokuzuncu ders kapsamında business katmanının ne olduğunu, görevlerini ve nasıl uygulandığını öğrendim. CRUD işlemleri yapılması ve Business ile Presentation arasında köprü oluşturulması amacıyla interfaceler oluşturduk. Manager sınıflarımıza servislerimizi implement ettik, constructer metotlarını oluşturduk ve CRUD metotlarının kurallarını yazdık. Ayrıca category formu oluşturduk.
+
 ##
 🔖 C# eğitim kampı devam etmekte olup bu repo üzerinden gelişmeleri takip edebilir ve aşağıdaki linkten eğitim videolarını izleyebilirsiniz. İyi çalışmalar 🎉
 

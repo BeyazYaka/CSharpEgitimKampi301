@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CSharpEgitimKampi301.DataAccessLayer.Abstract
 {
-    public interface IAdminDal:IGenericDal<Admin>
+    public interface IAdminDal : IGenericDal<Admin>
     {
 
     }
