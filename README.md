@@ -33,6 +33,9 @@ On sekizinci ders kapsamında miras alma ve implemente etme nasıl yapılır ö�
 ## 💎 Ders 19: Business Katmanı ve Logic Kurallar
 On dokuzuncu ders kapsamında business katmanının ne olduğunu, görevlerini ve nasıl uygulandığını öğrendim. CRUD işlemleri yapılması ve Business ile Presentation arasında köprü oluşturulması amacıyla interfaceler oluşturduk. Manager sınıflarımıza servislerimizi implement ettik, constructer metotlarını oluşturduk ve CRUD metotlarının kurallarını yazdık. Ayrıca category formu oluşturduk.
 
+## 💎 Ders 20: Dependency Injection
+Yirminci ders kapsamında SOLİD ilkelerinden olan Dependency Injection (Bağımlılık Enjeksiyonu) prensibinin bağımlılıkları soyutlamayı sağladığını bu sayede daha sürdürülebilir kod yazmamızı sağlayan bir prensip olduğunu öğrendim. Dependency Injection prensibini constructer injection yöntemi ile entity framework'e uyguladık. Category formundaki Listele, Ekle, Sil, Güncelle, ID'ye Göre Getir işlemlerini gerçekleştirmek için kodlarını yazdık.
+
 ##
 🔖 C# eğitim kampı devam etmekte olup bu repo üzerinden gelişmeleri takip edebilir ve aşağıdaki linkten eğitim videolarını izleyebilirsiniz. İyi çalışmalar 🎉
 
